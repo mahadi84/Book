@@ -58,6 +58,10 @@ User চায়:
 ### ৩) Problem-কে কাজ হিসেবে না, constraint হিসেবে লেখো
 
 -> Task বিভ্রান্ত করে, constraint পথ দেখায়।
+**Constraint এর মূল অর্থ হলো সীমাবদ্ধতা বা বাধা।
+গণিত বা প্রোগ্রামিং (Mathematics & Programming):
+কোনো নির্দিষ্ট সমস্যা সমাধানের জন্য যে শর্তগুলো মেনে চলতে হয়।
+     -শর্ত (Condition)    -সীমা (Boundary)
 
 ❌ “PDF থেকে data তুলতে হবে”
 ✅ “Label ছাড়া data নেওয়া যাবে না, ভুল হলে reject”
